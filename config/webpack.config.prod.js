@@ -351,7 +351,7 @@ module.exports = {
     // You can remove this if you don't use Moment.js:
     new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/),
     new BundleTracker({
-      filename: './webpack-stats.json',
+      filename: './webpack-client-stats-a.json',
     }),
   ],
   // Some libraries import Node modules but don't use them in the browser.
