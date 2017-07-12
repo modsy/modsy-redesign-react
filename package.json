@@ -1,6 +1,6 @@
 {
   "name": "react-scripts",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebookincubator/create-react-app",
   "license": "BSD-3-Clause",
@@ -56,12 +56,12 @@
     "webpack": "2.6.1",
     "webpack-dev-server": "2.5.0",
     "webpack-manifest-plugin": "1.1.0",
-    "whatwg-fetch": "2.0.3"
+    "whatwg-fetch": "2.0.3",
+    "webpack-bundle-tracker": "^0.2.0"
   },
   "devDependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "webpack-bundle-tracker": "^0.2.0"
+    "react-dom": "^15.5.4"
   },
   "optionalDependencies": {
     "fsevents": "1.1.2"
